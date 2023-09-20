@@ -4,10 +4,7 @@ html {
   font-size: 100%;
   overflow-x: hidden;
 }
-*{
-  outline: solid magenta;
 
-}
 body {
   color: #333;
   font-size: 1rem;
